@@ -1,5 +1,5 @@
  
-# Olá, Sou Lincoln Rodrigues Proença! 👋
+# Olá, sou Lincoln Rodrigues Proença! 👋
                 
 ## 📖 Sobre mim 
 
@@ -24,7 +24,7 @@
 
 ## 📈 Estatísticas
  <div align="center" >
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolnProenca&hide_border=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LincolnProenca&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LincolnProenca&hide_border=true&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LincolnProenca&hide_border=true&&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>

@@ -3,7 +3,7 @@
                 
 ## 📖 Sobre mim 
 
-🎓 Sou estudante de Engenharia de Controle e Automação na UFRJ \
+🎓 Sou Engenheiro de Controle e Automação na UFRJ \
 📝 Busco sempre aprimorar meus conhecimentos e aprender novas tecnologias \
 🌐 Faço projetos com microcontroladores e IOT nas horas vagas
 <div align="center" >
